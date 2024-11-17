@@ -1,7 +1,8 @@
 
-import React from 'react';
-import Quiz from '../../src/components/Quiz';
+
+import Quiz from '../../client/src/components/Quiz';
 import { it } from 'vitest';
+
 
 
 
